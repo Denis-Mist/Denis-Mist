@@ -19,13 +19,6 @@
   </a>
 </div> -->
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&](https://visitor-badge.laobi.icu/badge?page_id=Denis-Mist.Denis-Mist&"  />
-</div>
-
-###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
